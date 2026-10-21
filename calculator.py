@@ -1,1 +1,4 @@
 print("Calculator")
+a = int(input("Entre first number: "))
+b = int (input("Entre second number: "))
+print("Sum: ", a + b)
