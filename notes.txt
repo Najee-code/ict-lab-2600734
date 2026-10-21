@@ -1,0 +1,6 @@
+Git is a distributed version control system
+Git was created by Linus Torvalds in 2005
+A commit is a snapshot of your project
+A branch lets you work on features separately
+git merge combines changes from one branch into another
+git log shows the history of commits
